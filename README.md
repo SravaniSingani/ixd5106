@@ -8,7 +8,7 @@ In this course we build different interactive web pages and applications using F
 - <https:ixd.humber>
 - You can find all the necessary details in [ntro Design for Interaction](https:ixd.humber)
 
-![This is a fun place to code](ixd-logo.gif)
+![This is a fun place to code](ixd-logo.png)
 
 ### Note:
 Every student must understand and follow **"Academic Integrity"**
